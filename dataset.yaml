@@ -1,0 +1,12 @@
+path: \\?\C:\Users\User\Desktop\Phones\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: flower
+    1: blue
+    2: white
+    3: purple
+    4: my phone
+    5: pink
